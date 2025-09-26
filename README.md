@@ -1,2 +1,2 @@
 # Numpy
-Very good project for Numpy basic to advanced
+Numpy basic to advanced
